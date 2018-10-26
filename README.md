@@ -81,14 +81,18 @@ Managing and instructing large groups of children and young adults learning how 
 -	Grade B, A level French
 -	Grade B, A level English Literature
 -	Grade C, AS Physics
--	Grade C, AS Maths 	My character
+-	Grade C, AS Maths 	
+
+<h1>My character</h1>
 
 -	Enthusiastic
 -	Hard working
 -	Eager to learn
 -	Friendly and fun
 -	Professional 
--	Team player	My hobbies
+-	Team player	
+
+<h1>My hobbies</h1>
 
 -	Attending rock concerts
 -	Going to the theatre
