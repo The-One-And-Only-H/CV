@@ -1,32 +1,32 @@
 # CV
 
 <h1>H</h1>
-(my pronouns are they/them)
+<p>(my pronouns are they/them)</p>
 
-Who am I?
-Hello! My name is H and I am a self-taught developer. I currently work full-time for a local homelessness charity and have been working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem solving itch and now I want to do it as more than just a hobby.
-
-
-How have I taught myself?
-Codebar
-After expressing an interest in career change to a friend of mine last year, they suggested attending Codebar to see if computer programming might be of interest. I completed their HTML tutorial during my first visit and I was hooked. I began exploring online resources so as to expand my coding knowledge and soon moved onto learning CSS and JavaScript with Codecademy whilst watching video tutorials on Pluralsight. Given I currently work full-time, I spent every evening in the Jubilee Library, dedicating my free time to code. 
-
-Python
-After I'd spent several months studying front-end development, I began my exploration of backend coding and discovered Python. This was partially thanks to reading Allen B. Downey’s “How to think like a computer scientist”. Where the syntax of JavaScript was messy and verbose, Python was clean and concise. So after teaching myself the fundamentals, I decided I wanted to teach myself by building a project.
-
-TREP
-I decided to choose a subject that is close to my heart and so The Rainbow Encyclopedia Project (TREP) was born. I wanted to showcase the many prominent figures throughout LGBT history in such a way that is engaging and user friendly.
-
-Initially I developed the front-end code, starting with design, layout and functionality, using a mix of the skills I'd learned with HTML, CSS, and some jQuery. The generation of the actual site was done using Python scripting to compose the final output. I then manually pushed the static HTML to GitHub for deployment, which you can see here: https://github.com/The-One-And-Only-H/TREP 
+<h1>Who am I?</h1>
+<p>Hello! My name is H and I am a self-taught developer. I currently work full-time for a local homelessness charity and have been working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem solving itch and now I want to do it as more than just a hobby.</p>
 
 
-What I want to do next?
-I want to improve upon my knowledge of Python, which I would like to start using for web applications hence why I am now beginning to teach myself Django, with a view to building an updatable and dynamic version of my project TREP. While I certainly want to focus on back-end development, I am also interested in expanding my understanding of JavaScript and other front-end technologies.
+<h1>How have I taught myself?</h1>
+<h2>Codebar</h2>
+<p>After expressing an interest in career change to a friend of mine last year, they suggested attending Codebar to see if computer programming might be of interest. I completed their HTML tutorial during my first visit and I was hooked. I began exploring online resources so as to expand my coding knowledge and soon moved onto learning CSS and JavaScript with Codecademy whilst watching video tutorials on Pluralsight. Given I currently work full-time, I spent every evening in the Jubilee Library, dedicating my free time to code.</p> 
 
-Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. Our first public event will be the last week of July.
+<h2>Python</h2>
+<p>fter I'd spent several months studying front-end development, I began my exploration of backend coding and discovered Python. This was partially thanks to reading Allen B. Downey’s “How to think like a computer scientist”. Where the syntax of JavaScript was messy and verbose, Python was clean and concise. So after teaching myself the fundamentals, I decided I wanted to teach myself by building a project.</p>
+
+<h2>TREP</h2>
+<p>I decided to choose a subject that is close to my heart and so The Rainbow Encyclopedia Project (TREP) was born. I wanted to showcase the many prominent figures throughout LGBT history in such a way that is engaging and user friendly.</p>
+
+<p>Initially I developed the front-end code, starting with design, layout and functionality, using a mix of the skills I'd learned with HTML, CSS, and some jQuery. The generation of the actual site was done using Python scripting to compose the final output. I then manually pushed the static HTML to GitHub for deployment, which you can see here: https://github.com/The-One-And-Only-H/TREP</p> 
 
 
-My professional career
+<h2>What I want to do next?</h2>
+<p>I want to improve upon my knowledge of Python, which I would like to start using for web applications hence why I am now beginning to teach myself Django, with a view to building an updatable and dynamic version of my project TREP. While I certainly want to focus on back-end development, I am also interested in expanding my understanding of JavaScript and other front-end technologies.</p>
+
+<p>Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. Our first public event will be the last week of July.</p>
+
+
+<h1>My professional career</h1>
 
 -	Administrator at Brighton Housing Trust, Brighton
 (7th July 2015-Present)
@@ -48,7 +48,9 @@ Performing administrative tasks to support the customer services team
 Managing multiple international clients and delivering several projects and campaigns
 -	Marketing Executive at Hunterlodge, Herts 
 (15th Aug 2011-10th Aug 2012)
-Managing clients, liaising with the creative team, handling quality control and delivering campaigns	My voluntary career
+Managing clients, liaising with the creative team, handling quality control and delivering campaigns	
+
+<h1>My voluntary career</h1>
 
 -	LGBTQ Worker at Brighton Housing Trust, Brighton 
 (7th July 2015-Present)
@@ -72,7 +74,8 @@ coordinating events
 -	Volunteer at Bury Lake Young Mariners, Herts
 (20 th Jun 2008-18 th Sept 2009)
 Managing and instructing large groups of children and young adults learning how to sail
-My qualifications
+
+<h1>My qualifications</h1>
 
 -	Grade A, A level Classical Civilisation
 -	Grade B, A level French
