@@ -32,63 +32,62 @@
 
 <h1>My professional career</h1>
 
--	Administrator at Brighton Housing Trust, Brighton
+-	Administrator at Brighton Housing Trust, Brighton (7th July 2015-Present)
 
-<p>(7th July 2015-Present)</p>
 <p>Providing administrative support to local homelessness charity</p>
 
--	Administrator at Clear Fundraising, Brighton
+-	Administrator at Clear Fundraising, Brighton (28th April-26th May 2015)
 
-<p>(28th April-26th May 2015)</p>
 <p>Supporting street fundraisers representing multiple national charities</p>
 
--	Administrator at NHS, Herts
+-	Administrator at NHS, Herts (11th Feb-2nd July 2014)
 
-<p>(11th Feb-2nd July 2014)</p>
 <p>Organising and supporting department with local NHS hospital</p>
 
--	Marketing Coordinator at Medivet, Herts
+-	Marketing Coordinator at Medivet, Herts (22nd July-13th Dec 2013)
 
-<p>(22nd July-13th Dec 2013)</p>
 <p>Coordinating and supporting marketing initiatives, and organising promotional events</p> 
 
--	Administrator at Renault, Herts
+-	Administrator at Renault, Herts (3rd Dec 2012-5th July 2013)
 
-<p>(3rd Dec 2012-5th July 2013)</p>
 <p>Performing administrative tasks to support the customer services team</p>
 
--	Project Executive at The Hub Plus, London
+-	Project Executive at The Hub Plus, London (28th Aug-28th Sept 2012)
 
-<p>(28th Aug-28th Sept 2012)</p>
 <p>Managing multiple international clients and delivering several projects and campaigns</p>
 
--	Marketing Executive at Hunterlodge, Herts
+-	Marketing Executive at Hunterlodge, Herts (15th Aug 2011-10th Aug 2012)
 
-<p>(15th Aug 2011-10th Aug 2012)</p>
 <p>Managing clients, liaising with the creative team, handling quality control and delivering campaigns</p>	
 
 <h1>My voluntary career</h1>
 
-<p>-	LGBTQ Worker at Brighton Housing Trust, Brighton</p>
-<p>(7th July 2015-Present)</p>
+-	LGBTQ Worker at Brighton Housing Trust, Brighton (7th July 2015-Present)
+
 <p>Coordinating and managing support group for LGBTQ members of the local homeless community</p>
-<p>-	Campaign Intern at Liberty in North Korea, California</p>
-<p>(25th Aug-17th Dec 2014)</p>
+
+-	Campaign Intern at Liberty in North Korea, California (25th Aug-17th Dec 2014)
+
 <p>Sourcing and supporting fundraisers, and coordinating events to promote campaigns</p>
-<p>-	Marketing Coordinator at Herts Pride, Herts</p>
-<p>(14th Nov 2013-20th Aug 2014)</p>
+
+-	Marketing Coordinator at Herts Pride, Herts (14th Nov 2013-20th Aug 2014)
+
 <p>Organising fundraising events and opportunities, and coordinating marketing and promotional materials</p>
-<p>-	Volunteer at London Pride, London</p>
-<p>(23 rd Jun-1 st July 2013)</p>
+
+-	Volunteer at London Pride, London (23 rd Jun-1 st July 2013)
+
 <p>Managing team of volunteers and coordinating safety procedures</p>
-<p>-	Volunteer at National Animal Welfare Trust, Herts</p>
-<p>(30 th Jun 2009-25 th Jan 2010)</p>
+
+-	Volunteer at National Animal Welfare Trust, Herts (30 th Jun 2009-25 th Jan 2010)
+
 <p>Providing care and support to abandoned and abused animals</p>
-<p>-	Volunteer at Chorleywood Literature Festival, Herts</p>
-<p>(15 th May-20 th Nov 2009)</p>
+
+-	Volunteer at Chorleywood Literature Festival, Herts (15 th May-20 th Nov 2009)
+
 <p>Creating and distributing promotional materials, and coordinating events</p>
-<p>-	Volunteer at Bury Lake Young Mariners, Herts</p>
-<p>(20 th Jun 2008-18 th Sept 2009)</p>
+
+-	Volunteer at Bury Lake Young Mariners, Herts (20 th Jun 2008-18 th Sept 2009)
+
 <p>Managing and instructing large groups of children and young adults learning how to sail</p>
 
 <h1>My qualifications</h1>
