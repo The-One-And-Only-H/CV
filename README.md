@@ -6,7 +6,6 @@
 <h1>Who am I?</h1>
 <p>Hello! My name is H and I am a self-taught developer. I currently work full-time for a homelessness charity in Brighton and have been working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem solving itch and now I want to do it as more than just a hobby.</p>
 
-
 <h1>How have I taught myself?</h1>
 <h2>Codebar</h2>
 <p>After expressing an interest in career change to a friend of mine last year, they suggested attending Codebar to see if computer programming might be of interest. I completed their HTML tutorial during my first visit and I was hooked. I began exploring online resources so as to expand my coding knowledge and soon moved onto learning CSS and JavaScript with Codecademy whilst watching video tutorials on Pluralsight. Given I currently work full-time, I spent every evening in the local library, dedicating my free time to code.</p> 
@@ -28,7 +27,6 @@
 
 <h2>Code Brunch</h2>
 <p>Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. The first public event took place in the last week of July and has successfully been going every month since.</p>
-
 
 <h1>My professional career</h1>
 
@@ -114,3 +112,5 @@
 -	Photography
 -	Singing (badly)
 
+<h1>Contact me!</h1>
+<p>I am currently seeking either remote part-time freelance work and/or full-time work as a junior developer in either London or Brighton. Feel free to drop me a line sometime: juana.galan@outlook.com</p>
