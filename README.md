@@ -24,7 +24,7 @@
 <p>Having attended several job interviews already, one problem I have continually experienced is my lack of professional experience of using code in the work place. As a self-taught developer, this has been my main hurdle to overcome in securing myself a job in the tech industry. I have therefore been tackling my current job from the perspective of a developer and have since managed to find myself a task where I can use my knowledge of programming to everyone's benefit. In short, a large database in the form of an Excel spreadsheet needed reorganising and so, rather than attempting to solve this manually, I wrote a Python script instead, which you can see here: https://github.com/The-One-And-Only-H/spreadsheetorganisation</p>
 
 <h2>What I want to do next?</h2>
-<p>I want to improve upon my knowledge of Python, which I would like to start using for web applications hence why I am now beginning to teach myself Django, with a view to building an updatable and dynamic version of my project TREP. While I certainly want to focus on back-end development, I am also interested in expanding my understanding of JavaScript and other front-end technologies.</p>
+<p>I want to improve upon my knowledge of JavaScript with a view to eventually familiarising myself with the React library. I also have an interest in exploring Node.js owing to my interest in back-end code. Going on from this, I would like to develop my skills in Python, which I would like to start using for web applications. Because of this, I would similarly like to explore Django with a view to building an updatable and dynamic version of my project TREP. While I have an interest in back-end development, I am also keen to expand my understanding of JavaScript and other front-end technologies.</p>
 
 <h2>Code Brunch</h2>
 <p>Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. The first public event took place in the last week of July and has successfully been going every month since.</p>
@@ -32,52 +32,51 @@
 
 <h1>My professional career</h1>
 
--	Administrator at Brighton Housing Trust, Brighton
-(7th July 2015-Present)
-Providing administrative support to local homelessness charity
--	Administrator at Clear Fundraising, Brighton 
-(28th April-26th May 2015)
-Supporting street fundraisers representing multiple national charities
--	Administrator at NHS, Herts 
-(11th Feb-2nd July 2014)
-Organising and supporting department with local NHS hospital
--	Marketing Coordinator at Medivet, Herts 
-(22nd July-13th Dec 2013)
-Coordinating and supporting marketing initiatives, and organising promotional events 
--	Administrator at Renault, Herts 
-(3rd Dec 2012-5th July 2013)
-Performing administrative tasks to support the customer services team
--	Project Executive at The Hub Plus, London 
-(28th Aug-28th Sept 2012)
-Managing multiple international clients and delivering several projects and campaigns
--	Marketing Executive at Hunterlodge, Herts 
-(15th Aug 2011-10th Aug 2012)
-Managing clients, liaising with the creative team, handling quality control and delivering campaigns	
+<p>-	Administrator at Brighton Housing Trust, Brighton</p>
+<p>(7th July 2015-Present)</p>
+<p>Providing administrative support to local homelessness charity</p>
+<p>-	Administrator at Clear Fundraising, Brighton</p>
+<p>(28th April-26th May 2015)</p>
+<p>Supporting street fundraisers representing multiple national charities</p>
+<p>-	Administrator at NHS, Herts</p>
+<p>(11th Feb-2nd July 2014)</p>
+<p>Organising and supporting department with local NHS hospital</p>
+<p>-	Marketing Coordinator at Medivet, Herts</p>
+<p>(22nd July-13th Dec 2013)</p>
+<p>Coordinating and supporting marketing initiatives, and organising promotional events</p> 
+<p>-	Administrator at Renault, Herts</p>
+<p>(3rd Dec 2012-5th July 2013)</p>
+<p>Performing administrative tasks to support the customer services team</p>
+<p>-	Project Executive at The Hub Plus, London</p>
+<p>(28th Aug-28th Sept 2012)</p>
+<p>Managing multiple international clients and delivering several projects and campaigns</p>
+<p>-	Marketing Executive at Hunterlodge, Herts</p>
+<p>(15th Aug 2011-10th Aug 2012)</p>
+<p>Managing clients, liaising with the creative team, handling quality control and delivering campaigns</p>	
 
 <h1>My voluntary career</h1>
 
--	LGBTQ Worker at Brighton Housing Trust, Brighton 
-(7th July 2015-Present)
-Coordinating and managing support group for LGBTQ members of the local homeless community
--	Campaign Intern at Liberty in North Korea, California
-(25th Aug-17th Dec 2014)
-Sourcing and supporting fundraisers, and coordinating events to promote campaigns
--	Marketing Coordinator at Herts Pride, Herts 
-(14th Nov 2013-20th Aug 2014)
-Organising fundraising events and opportunities, and coordinating marketing and promotional materials
--	Volunteer at London Pride, London
-(23 rd Jun-1 st July 2013)
-Managing team of volunteers and coordinating safety procedures
--	Volunteer at National Animal Welfare Trust, Herts
-(30 th Jun 2009-25 th Jan 2010)
-Providing care and support to abandoned and abused animals
--	Volunteer at Chorleywood Literature Festival, Herts
-(15 th May-20 th Nov 2009)
-Creating and distributing promotional materials, and
-coordinating events
--	Volunteer at Bury Lake Young Mariners, Herts
-(20 th Jun 2008-18 th Sept 2009)
-Managing and instructing large groups of children and young adults learning how to sail
+<p>-	LGBTQ Worker at Brighton Housing Trust, Brighton</p>
+<p>(7th July 2015-Present)</p>
+<p>Coordinating and managing support group for LGBTQ members of the local homeless community</p>
+<p>-	Campaign Intern at Liberty in North Korea, California</p>
+<p>(25th Aug-17th Dec 2014)</p>
+<p>Sourcing and supporting fundraisers, and coordinating events to promote campaigns</p>
+<p>-	Marketing Coordinator at Herts Pride, Herts</p>
+<p>(14th Nov 2013-20th Aug 2014)</p>
+<p>Organising fundraising events and opportunities, and coordinating marketing and promotional materials</p>
+<p>-	Volunteer at London Pride, London</p>
+<p>(23 rd Jun-1 st July 2013)</p>
+<p>Managing team of volunteers and coordinating safety procedures</p>
+<p>-	Volunteer at National Animal Welfare Trust, Herts</p>
+<p>(30 th Jun 2009-25 th Jan 2010)</p>
+<p>Providing care and support to abandoned and abused animals</p>
+<p>-	Volunteer at Chorleywood Literature Festival, Herts</p>
+<p>(15 th May-20 th Nov 2009)</p>
+<p>Creating and distributing promotional materials, and coordinating events</p>
+<p>-	Volunteer at Bury Lake Young Mariners, Herts</p>
+<p>(20 th Jun 2008-18 th Sept 2009)</p>
+<p>Managing and instructing large groups of children and young adults learning how to sail</p>
 
 <h1>My qualifications</h1>
 
