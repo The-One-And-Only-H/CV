@@ -38,19 +38,19 @@
 -	Administrator at Clear Fundraising, Brighton
 <p>(28th April-26th May 2015)</p>
 <p>Supporting street fundraisers representing multiple national charities</p>
-<p>-	Administrator at NHS, Herts</p>
+-	Administrator at NHS, Herts
 <p>(11th Feb-2nd July 2014)</p>
 <p>Organising and supporting department with local NHS hospital</p>
-<p>-	Marketing Coordinator at Medivet, Herts</p>
+-	Marketing Coordinator at Medivet, Herts
 <p>(22nd July-13th Dec 2013)</p>
 <p>Coordinating and supporting marketing initiatives, and organising promotional events</p> 
-<p>-	Administrator at Renault, Herts</p>
+-	Administrator at Renault, Herts
 <p>(3rd Dec 2012-5th July 2013)</p>
 <p>Performing administrative tasks to support the customer services team</p>
-<p>-	Project Executive at The Hub Plus, London</p>
+-	Project Executive at The Hub Plus, London
 <p>(28th Aug-28th Sept 2012)</p>
 <p>Managing multiple international clients and delivering several projects and campaigns</p>
-<p>-	Marketing Executive at Hunterlodge, Herts</p>
+-	Marketing Executive at Hunterlodge, Herts
 <p>(15th Aug 2011-10th Aug 2012)</p>
 <p>Managing clients, liaising with the creative team, handling quality control and delivering campaigns</p>	
 
