@@ -36,6 +36,7 @@
 <p>(7th July 2015-Present)</p>
 <p>Providing administrative support to local homelessness charity</p>
 -	Administrator at Clear Fundraising, Brighton
+<br>
 <p>(28th April-26th May 2015)</p>
 <p>Supporting street fundraisers representing multiple national charities</p>
 -	Administrator at NHS, Herts
