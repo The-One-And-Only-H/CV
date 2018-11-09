@@ -46,16 +46,24 @@
 
 <p>(11th Feb-2nd July 2014)</p>
 <p>Organising and supporting department with local NHS hospital</p>
+
 -	Marketing Coordinator at Medivet, Herts
+
 <p>(22nd July-13th Dec 2013)</p>
 <p>Coordinating and supporting marketing initiatives, and organising promotional events</p> 
+
 -	Administrator at Renault, Herts
+
 <p>(3rd Dec 2012-5th July 2013)</p>
 <p>Performing administrative tasks to support the customer services team</p>
+
 -	Project Executive at The Hub Plus, London
+
 <p>(28th Aug-28th Sept 2012)</p>
 <p>Managing multiple international clients and delivering several projects and campaigns</p>
+
 -	Marketing Executive at Hunterlodge, Herts
+
 <p>(15th Aug 2011-10th Aug 2012)</p>
 <p>Managing clients, liaising with the creative team, handling quality control and delivering campaigns</p>	
 
