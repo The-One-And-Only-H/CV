@@ -33,13 +33,17 @@
 <h1>My professional career</h1>
 
 -	Administrator at Brighton Housing Trust, Brighton
+
 <p>(7th July 2015-Present)</p>
 <p>Providing administrative support to local homelessness charity</p>
+
 -	Administrator at Clear Fundraising, Brighton
-<br>
+
 <p>(28th April-26th May 2015)</p>
 <p>Supporting street fundraisers representing multiple national charities</p>
+
 -	Administrator at NHS, Herts
+
 <p>(11th Feb-2nd July 2014)</p>
 <p>Organising and supporting department with local NHS hospital</p>
 -	Marketing Coordinator at Medivet, Herts
