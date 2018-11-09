@@ -113,4 +113,4 @@
 -	Singing (badly)
 
 <h1>Contact me!</h1>
-<p>I am currently seeking either remote part-time freelance work and/or full-time work as a junior developer in either London or Brighton. Feel free to drop me a line sometime: juana.galan@outlook.com</p>
+<p>I am currently seeking either remote part-time freelance work and/or full-time work as a junior developer in either London or Brighton. Feel free to drop me a line sometime: juana.galan@outlook.com and check out my LinkedIn profile: https://www.linkedin.com/in/the-h/</p>
