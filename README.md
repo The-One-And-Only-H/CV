@@ -53,7 +53,7 @@
 <p>I want to improve upon my knowledge of JavaScript with a view to eventually familiarising myself with the React library. I also have an interest in exploring Node.js owing to my interest in back-end code. Going on from this, I would like to develop my skills in Python, which I would like to start using for web applications. Because of this, I would similarly like to explore Django with a view to building an updatable and dynamic version of my project TREP. While I have an interest in back-end development, I am also keen to expand my understanding of JavaScript and other front-end technologies.</p>
 
 <h2>Code Brunch</h2>
-<p>Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. The first public event took place in the last week of July and has successfully been going every month since. You can find the group listed in this repo here: https://github.com/charlottebrf/coder-newbie-advice/blob/master/meetups/uk/meetups.md</p>
+<p>Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. The first public event took place in the last week of July and has successfully been going every month since. You can check out the group details on Facebook here: https://www.facebook.com/groups/206177746699309/</p>
 
 <h1>My professional career</h1>
 
