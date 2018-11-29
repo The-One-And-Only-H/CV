@@ -24,9 +24,9 @@
 
 - Shell scripting
 
-- Linux, Windows, Mac
-
 - Atom
+
+- Linux/Windows/Mac
 
 - Photoshop/GIMP
 
