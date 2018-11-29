@@ -1,7 +1,7 @@
 # My Curriculum Vitae
 
 <h1>H</h1>
-<p>(my pronouns are they/them)</p>
+<p>(My pronouns are they/them)</p>
 
 <h1>TL;DR</h1>
 <h2>Tech stack</h2>
@@ -49,95 +49,26 @@
 <h2>Work</h2>
 <p>Having attended several job interviews already, one problem I have continually experienced is my lack of professional experience of using code in the work place. As a self-taught developer, this has been my main hurdle to overcome in securing myself a job in the tech industry. I have therefore been tackling my current job from the perspective of a developer and have since managed to find myself a task where I can use my knowledge of programming to everyone's benefit. In short, a large database in the form of an Excel spreadsheet needed reorganising and so, rather than attempting to solve this manually, I wrote a Python script instead, which you can see here: https://github.com/The-One-And-Only-H/spreadsheetorganisation</p>
 
-<h2>What I want to do next?</h2>
+<h2>What do I want to do next?</h2>
 <p>I want to improve upon my knowledge of JavaScript with a view to eventually familiarising myself with the React library. I also have an interest in exploring Node.js owing to my interest in back-end code. Going on from this, I would like to develop my skills in Python, which I would like to start using for web applications. Because of this, I would similarly like to explore Django with a view to building an updatable and dynamic version of my project TREP. While I have an interest in back-end development, I am also keen to expand my understanding of JavaScript and other front-end technologies.</p>
+
+<h2>What am I looking for in my next job?</h2>
+<p>I am hoping to join a friendly team with which I can grow in a co-dependent working environment. I would like for my role to include both support and appreciation of my skills and contributions, and to be given the opportunity to build and create upon the tasks I am given.</p>
 
 <h2>Code Brunch</h2>
 <p>Additionally, I have recently set up a new group in Brighton entitled Code Brunch, which endeavours to be a regular coding event for women, trans people and non-binary folk to help each other work on their own projects in a safe and supportive space. The first public event took place in the last week of July and has successfully been going every month since. You can check out the group details on Facebook here: https://www.facebook.com/groups/206177746699309/</p>
 
 <h1>My professional career</h1>
-
--	Administrator at Brighton Housing Trust, Brighton (7th July 2015-Present)
-
-<p>Providing administrative support to local homelessness charity</p>
-
--	Administrator at Clear Fundraising, Brighton (28th April-26th May 2015)
-
-<p>Supporting street fundraisers representing multiple national charities</p>
-
--	Administrator at NHS, Herts (11th Feb-2nd July 2014)
-
-<p>Organising and supporting department with local NHS hospital</p>
-
--	Marketing Coordinator at Medivet, Herts (22nd July-13th Dec 2013)
-
-<p>Coordinating and supporting marketing initiatives, and organising promotional events</p> 
-
--	Administrator at Renault, Herts (3rd Dec 2012-5th July 2013)
-
-<p>Performing administrative tasks to support the customer services team</p>
-
--	Project Executive at The Hub Plus, London (28th Aug-28th Sept 2012)
-
-<p>Managing multiple international clients and delivering several projects and campaigns</p>
-
--	Marketing Executive at Hunterlodge, Herts (15th Aug 2011-10th Aug 2012)
-
-<p>Managing clients, liaising with the creative team, handling quality control and delivering campaigns</p>	
+<p>Since 2011, I have gained experience of working in a variety of workplaces, ranging from third sector to advertising. The majority of these roles have largely comprised of both marketing and administrative work. I have subsequently developed strong organisational and interpersonal skills, as well as experience of liasing with both clients and contractors, alongside other stakeholders. At the moment, I currently work for a homelessness charity called Brighton Housing Trust and have been a part of the organisation since 2015. I am however ready for a career change and excited for what my future in tech will hold. Should you require a more detailed description of my career history, please feel free to get in touch for more info.</p>
 
 <h1>My voluntary career</h1>
-
--	LGBTQ Worker at Brighton Housing Trust, Brighton (7th July 2015-Present)
-
-<p>Coordinating and managing support group for LGBTQ members of the local homeless community</p>
-
--	Campaign Intern at Liberty in North Korea, California (25th Aug-17th Dec 2014)
-
-<p>Sourcing and supporting fundraisers, and coordinating events to promote campaigns</p>
-
--	Marketing Coordinator at Herts Pride, Herts (14th Nov 2013-20th Aug 2014)
-
-<p>Organising fundraising events and opportunities, and coordinating marketing and promotional materials</p>
-
--	Volunteer at London Pride, London (23 rd Jun-1 st July 2013)
-
-<p>Managing team of volunteers and coordinating safety procedures</p>
-
--	Volunteer at National Animal Welfare Trust, Herts (30 th Jun 2009-25 th Jan 2010)
-
-<p>Providing care and support to abandoned and abused animals</p>
-
--	Volunteer at Chorleywood Literature Festival, Herts (15 th May-20 th Nov 2009)
-
-<p>Creating and distributing promotional materials, and coordinating events</p>
-
--	Volunteer at Bury Lake Young Mariners, Herts (20 th Jun 2008-18 th Sept 2009)
-
-<p>Managing and instructing large groups of children and young adults learning how to sail</p>
+<p>I am a big believer in giving back to the community and have dedicated the past ten years towards various forms of voluntary work. This has included working within human rights and social issues, and has taken me as far as California where I was given the amazing opportunity to work with and support refugees from North Korea. I have also done a lot of work with various LGBT Pride groups, including London, Brighton and Hertfordshire Pride. On top of this is an assortment of voluntary work, including teaching young adults how to sail, looking after abandoned rescue animals and co-organising a mini literature festival. At the moment, I currently volunteer as an LGBT worker for my current employer, Brighton Housing Trust. This involves providing support to and creating safe spaces for LGBT members of the homeless community, which is something I have been doing for the past three years since I began working for BHT. Should you require a more detailed description of my volunteer history, please feel free to get in touch for more info.</p>
 
 <h1>My qualifications</h1>
-
--	Grade A, A level Classical Civilisation
--	Grade B, A level French
--	Grade B, A level English Literature
--	Grade C, AS Physics
--	Grade C, AS Maths 	
-
-<h1>My character</h1>
-
--	Enthusiastic
--	Hard working
--	Eager to learn
--	Friendly and fun
--	Professional 
--	Team player	
+<p>Despite being offered to attend the Royal Holloway University of London to do a joint BA in Classical Civilisation and Philosophy, I decided to pursue my professional career instead. Prior to this, I attended the Royal Masonic School for Girls in Hertfordshire and came away with three top grade A levels in Classical Civilisation, French and English Literature, as well as two AS levels in Physics and Maths.</p> 	
 
 <h1>My hobbies</h1>
-
--	Attending rock concerts
--	Going to the theatre
--	Photography
--	Singing (badly)
+<p>My number one favourite thing to do in my spare time is to attend rock concerts, which I have been doing consistently since the age of 15. I also have an appreciation for theatre and recently went to see Bryan Cranston perform the 1976 film Network at the National Theatre. Alongside this, I dabble in photography and enjoy singing (badly).</p>
 
 <h1>Contact me!</h1>
 <p>I am currently seeking either remote part-time freelance work and/or full-time work as a junior developer in either London or Brighton. Feel free to drop me a line sometime: 07497 018 232 / juana.galan@outlook.com and check out my LinkedIn profile: https://www.linkedin.com/in/the-h/</p>
