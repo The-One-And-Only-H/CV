@@ -6,15 +6,25 @@
 <h1>TL;DR</h1>
 <h2>Tech stack</h2>
 - HTML5
+
 - CSS3
+
 - JavaScript
+
 - JSON
+
 - jQuery
+
 - Python
+
 - OpenPyXl
+
 - Git
+
 - Shell scripting
+
 - Linux
+
 - Atom
 
 <h1>Who am I?</h1>
