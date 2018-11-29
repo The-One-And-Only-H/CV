@@ -40,7 +40,7 @@
 <h2>Python</h2>
 <p>After I'd spent several months studying front-end development, I began my exploration of backend coding and discovered Python. This was partially thanks to reading Allen B. Downey’s “How to Think Like a Computer Scientist”. This language quickly developed a special place in my heart, largely owing to it's clean and concise syntax. So after teaching myself the fundamentals, I decided I wanted to teach myself by building a project.</p>
 
-<h2>TREP</h2>
+<h2>The Rainbow Encyclopedia Project (TREP)</h2>
 <p>I decided to choose a subject that is close to my heart and so The Rainbow Encyclopedia Project (TREP) was born. I wanted to showcase the many prominent figures throughout LGBT history in such a way that is engaging and user friendly. Initially I developed the front-end code, starting with design, layout and functionality, using a mix of the skills I'd learned with HTML, CSS, and some jQuery. The generation of the actual site was done using Python scripting to compose the final output. I then manually pushed the static HTML to GitHub for deployment, which you can see here: https://github.com/The-One-And-Only-H/TREP</p> 
 
 <h2>JavaScript</h2>
@@ -49,7 +49,7 @@
 <h2>Work</h2>
 <p>Having attended several job interviews already, one problem I have continually experienced is my lack of professional experience of using code in the work place. As a self-taught developer, this has been my main hurdle to overcome in securing myself a job in the tech industry. I have therefore been tackling my current job from the perspective of a developer and have since managed to find myself a task where I can use my knowledge of programming to everyone's benefit. In short, a large database in the form of an Excel spreadsheet needed reorganising and so, rather than attempting to solve this manually, I wrote a Python script instead, which you can see here: https://github.com/The-One-And-Only-H/spreadsheetorganisation</p>
 
-<h2>What do I want to do next?</h2>
+<h2>What do I want to do?</h2>
 <p>I want to improve upon my knowledge of JavaScript with a view to eventually familiarising myself with the React library. I also have an interest in exploring Node.js owing to my interest in back-end code. Going on from this, I would like to develop my skills in Python, which I would like to start using for web applications. Because of this, I would similarly like to explore Django with a view to building an updatable and dynamic version of my project TREP. While I have an interest in back-end development, I am also keen to expand my understanding of JavaScript and other front-end technologies.</p>
 
 <h2>What am I looking for in my next job?</h2>
