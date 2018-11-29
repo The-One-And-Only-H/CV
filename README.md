@@ -28,7 +28,7 @@
 
 - Linux/Windows/Mac
 
-- Photoshop/GIMP
+- Photoshop/GIMP/Darktable
 
 <h1>Who am I?</h1>
 <p>Hello! My name is H and I am a self-taught developer. I currently work full-time for a homelessness charity in Brighton and have been working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem solving itch and now I want to do it as more than just a hobby.</p>
