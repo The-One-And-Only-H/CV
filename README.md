@@ -3,6 +3,9 @@
 <h1>H</h1>
 <p>(My pronouns are they/them)</p>
 
+<h1>Junior Full Stack Developer</h1>
+<p>NeverBland, London</p>
+
 <h1>TL;DR</h1>
 <h2>Tech stack</h2>
 
@@ -12,9 +15,15 @@
 
 - JavaScript
 
-- JSON
+- React
+
+- JSX
 
 - jQuery
+
+- WordPress
+
+- GraphQL
 
 - Python
 
@@ -24,11 +33,13 @@
 
 - Shell scripting
 
+- VSCode
+
 - Atom
 
 - Linux/Windows/Mac
 
-- Photoshop/GIMP/Darktable
+- Photoshop/Illustrator/GIMP/Darktable
 
 <h1>Who am I?</h1>
 <p>Hello! My name is H and I am a self-taught developer. I currently work full-time for a homelessness charity in Brighton and have been working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem solving itch and now I want to do it as more than just a hobby.</p>
