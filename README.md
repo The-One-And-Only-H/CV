@@ -13,11 +13,11 @@
 
 **<p>Automated accessibility testing:</p>**
 <p>https://github.com/The-One-And-Only-H/accessibilityreporting</p>
-<p>**Automated reporting:**</p>
+**<p>Automated reporting:</p>**
 <p>https://github.com/The-One-And-Only-H/automatedreporting</p>
-<p>**Meta tag scraper:**</p>
+**<p>Meta tag scraper:</p>**
 <p>https://github.com/The-One-And-Only-H/metatagscraper</p>
-<p>**Internal Slackbot:**</p>
+**<p>Internal Slackbot:</p>**
 <p>https://github.com/The-One-And-Only-H/nombot</p>
 
 <h3>August 2011 - January 2019</h3>
@@ -28,23 +28,23 @@
 <p>Sourcing and supporting fundraisers, and coordinating events to promote campaigns for Liberty in North Korea in California (August - December 2014). Organising LGBTQ fundraising events and opportunities, and coordinating marketing and promotional materials for Herts Pride (November 2013 - August 2014). Managing team of volunteers and coordinating safety procedures for London Pride (June - July 2013). Providing care and support to abandoned and abused animals with the National Animal Welfare Trust (June 2009 - January 2010). Creating and distributing promotional materials, and coordinating events for the Chorleywood Literature Festival (May - November 2009). Managing and instructing large groups of children and young adults learning how to sail with Bury Lake Young Mariners (June 2008 - September 2009).</p>
 
 <h2>My qualifications</h2>
-* Grade A, A level Classical Civilisation 
-* Grade B, A level French
-* Grade B, A level English Literature
-* Grade C, AS Physics 
-* Grade C, AS Maths 
+* <p>Grade A, A level Classical Civilisation</p>
+* <p>Grade B, A level French</p>
+* <p>Grade B, A level English Literature</p>
+* <p>Grade C, AS Physics</p>
+* <p>Grade C, AS Maths</p>
 
 <h2>My character</h2>
-* Enthusiastic
-* Hard working
-* Eager to learn
-* Friendly and fun 
-* Professional
-* Team player 
+* <p>Enthusiastic</p>
+* <p>Hard working</p>
+* <p>Eager to learn</p>
+* <p>Friendly and fun</p>
+* <p>Professional</p>
+* <p>Team player</p>
 
 <h2>My hobbies</h2>
-* Attending rock concerts
-* Going to the theatre
-* Photography
-* Singing (badly) 
+* <p>Attending rock concerts</p>
+* <p>Going to the theatre</p>
+* <p>Photography</p>
+* <p>Singing (badly)</p> 
 
