@@ -11,13 +11,13 @@
 <h3>Full Stack Developer, Neverbland, London (January 2019 - Present)</h3>
 <p>Part of the development team primarily working with JavaScript, specifically React, as well as CSS, Grid, Styled Components, and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of version control tools such as Git. Working with designers and design tools like Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver, Puppeteer, DOM Parser, Crontabs, Axe, Lighthouse and the Slackbot API. Below include examples of some of my work:</p>
 
-**<p>Automated accessibility testing:</p>**
+**<p>Automated accessibility testing:</p>
 <p>https://github.com/The-One-And-Only-H/accessibilityreporting</p>
-**<p>Automated reporting:</p>**
+**<p>Automated reporting:</p>
 <p>https://github.com/The-One-And-Only-H/automatedreporting</p>
-**<p>Meta tag scraper:</p>**
+**<p>Meta tag scraper:</p>
 <p>https://github.com/The-One-And-Only-H/metatagscraper</p>
-**<p>Internal Slackbot:</p>**
+**<p>Internal Slackbot:</p>
 <p>https://github.com/The-One-And-Only-H/nombot</p>
 
 <h3>August 2011 - January 2019</h3>
