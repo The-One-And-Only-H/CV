@@ -8,7 +8,7 @@
 <p>My name is H and I currently work full-time as a Full Stack Developer for a design agency based in Shoreditch called Neverbland. Prior to this, I used to work for a homelessness charity in Brighton and was working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I want to further grow and develop my computer programming skills.</p>
 
 <h2>Employment history</h2>	
-<h3>Full Stack Developer, Neverbland, London (January 2019 - Present)</h3>
+<h3>Full Stack Developer at Neverbland, London (January 2019 - Present)</h3>
 <p>Part of the development team primarily working with JavaScript, specifically React, as well as CSS, Grid, Styled Components, and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of version control tools such as Git. Working with designers and design tools like Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver, Puppeteer, DOM Parser, Crontabs, Axe, Lighthouse and the Slackbot API. Below include examples of some of my work:</p>
 
 <p>Automated accessibility testing:</p>
