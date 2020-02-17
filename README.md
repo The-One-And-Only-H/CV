@@ -2,7 +2,6 @@
 
 <h1>H</h1>
 <p>(My pronouns are they/them)</p>
-<p>https://www.linkedin.com/in/the-h/</p>
 
 <h2>Summary</h2>
 <p>My name is H and I currently work full-time as a Full Stack Developer for a design agency based in Shoreditch called Neverbland. Prior to this, I used to work for a homelessness charity in Brighton and was working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I want to further grow and develop my computer programming skills.</p>
