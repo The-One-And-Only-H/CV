@@ -20,7 +20,7 @@
 <p>https://github.com/The-One-And-Only-H/metatagscraper</p>
 
 <h3>Personal Projects</h3>
-<p>For more examples of my work, here are some personal projects that I have built to learn new development tools. Below include examples of some of my work here on GitHub:</p>
+<p>For more examples of my work, here are some personal projects that I have built to learn new development tools, which you can find here on GitHub:</p>
 
 <p>GitHub and Tinder combined:</p>
 <p>https://github.com/The-One-And-Only-H/gitr</p>
