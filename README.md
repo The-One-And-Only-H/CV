@@ -4,20 +4,29 @@
 <p>(My pronouns are they/them)</p>
 
 <h2>Summary</h2>
-<p>My name is H and I currently work full-time as a Full Stack Developer for a design agency based in Shoreditch called Neverbland. Prior to this, I used to work for a homelessness charity in Brighton and was working in the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I want to further grow and develop my computer programming skills.</p>
+<p>My name is H. I currently work full-time as a Full Stack Developer for a digital design agency based in Shoreditch, London called Neverbland. I also volunteer as a coach with Codebar teaching students basic programming skills. Prior to this, I worked for a homelessness charity in Brighton and was part of the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I am keen to develop my computer programming skills and grow within the tech industry.</p>
 
 <h2>Employment history</h2>	
 <h3>Full Stack Developer at Neverbland, London (January 2019 - Present)</h3>
-<p>Part of the development team primarily working with JavaScript, specifically React, as well as CSS, Grid, Styled Components, and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management and version control. Working with designers and design tools like Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver, Puppeteer, DOM Parser, Crontabs, Axe, Lighthouse and the Slackbot API. Below include examples of some of my work:</p>
+<p>Part of the development team primarily working with JavaScript, specifically React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management and version control. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Below include examples of some of my work for Neverbland:</p>
 
 <p>Automated accessibility testing:</p>
 <p>https://github.com/The-One-And-Only-H/accessibilityreporting</p>
-<p>Automated reporting:</p>
+<p>Automated internal reporting:</p>
 <p>https://github.com/The-One-And-Only-H/automatedreporting</p>
+<p>Internal Slackbot tool:</p>
+<p>https://github.com/The-One-And-Only-H/nombot</p>
 <p>Meta tag scraper:</p>
 <p>https://github.com/The-One-And-Only-H/metatagscraper</p>
-<p>Internal Slackbot:</p>
-<p>https://github.com/The-One-And-Only-H/nombot</p>
+
+<p>For more examples of my work outside of Neverbland, please checkout my various personal projects here on GitHub:</p>
+
+<p>GitHub and Tinder combined:</p>
+<p>https://github.com/The-One-And-Only-H/gitr</p>
+<p>Retro spaceship game:</p>
+<p>https://github.com/The-One-And-Only-H/spaceshipreact</p>
+<p>Desktop calculator:</p>
+<p>https://github.com/The-One-And-Only-H/calculator</p>
 
 <h3>August 2011 - January 2019</h3>
 <p>Prior to entering the tech industry, working for Brighton Housing Trust, a homelessness charity and housing association, leading on LGBTQ work and support in the homeless community (July 2015 - January 2019). Supporting fundraising events representing multiple national charities with Clear Fundraising (April - May 2015). Performing administrative tasks, organising and supporting the paediatrics department for an NHS hospital (February - July 2014). Coordinating and supporting marketing initiatives, and organising promotional events for Medivet (July - December 2013). Performing administrative tasks to support the customer services team with Renault (December 2012 - July 2013). Managing multiple international clients and delivering several projects and campaigns with The Hub Plus Advertising (August - September 2012). Managing clients, liaising with the creative team, handling quality control and delivering campaigns for Hunterlodge Advertising (August 2011 - August 2012). Tools used across this period include Word, Excel, PowerPoint and Access.</p>
