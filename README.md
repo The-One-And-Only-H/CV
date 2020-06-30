@@ -19,7 +19,8 @@
 <p>Meta tag scraper:</p>
 <p>https://github.com/The-One-And-Only-H/metatagscraper</p>
 
-<h3>For more examples of my work outside of Neverbland, please checkout my various personal projects that I have built to learn new development tools here on GitHub:</h3>
+<h3>Personal Projects</h3>
+<p>For more examples of my work outside of Neverbland, please checkout my various personal projects that I have built to learn new development tools. Below include examples of some of my work here on GitHub:</p>
 
 <p>GitHub and Tinder combined:</p>
 <p>https://github.com/The-One-And-Only-H/gitr</p>
