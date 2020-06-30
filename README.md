@@ -8,7 +8,7 @@
 
 <h2>Employment history</h2>	
 <h3>Full Stack Developer at Neverbland, London (January 2019 - Present)</h3>
-<p>Part of the development team primarily working with JavaScript, specifically React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management and version control. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Below include examples of some of my work for Neverbland:</p>
+<p>Part of the development team primarily working with JavaScript, especially React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Below include examples of some of my work for Neverbland:</p>
 
 <p>Automated accessibility testing:</p>
 <p>https://github.com/The-One-And-Only-H/accessibilityreporting</p>
@@ -19,7 +19,7 @@
 <p>Meta tag scraper:</p>
 <p>https://github.com/The-One-And-Only-H/metatagscraper</p>
 
-<p>For more examples of my work outside of Neverbland, please checkout my various personal projects here on GitHub:</p>
+<h3>For more examples of my work outside of Neverbland, please checkout my various personal projects that I have built to learn new development tools here on GitHub:</h3>
 
 <p>GitHub and Tinder combined:</p>
 <p>https://github.com/The-One-And-Only-H/gitr</p>
@@ -51,8 +51,9 @@
 <p>Team player</p>
 
 <h2>My hobbies</h2>
-<p>Attending rock concerts</p>
-<p>Going to the theatre</p>
-<p>Photography</p>
+<p>Playing guitar</p>
+<p>Exercising</p>
+<p>Drawing</p>
+<p>Reading</p>
 <p>Singing (badly)</p> 
 
