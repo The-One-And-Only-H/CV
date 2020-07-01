@@ -43,6 +43,16 @@
   <li>Lighthouse</li>
 </ul>
 
+<h3>Specialities</h3>
+<ul>
+  <li>Accessibility testing</li>
+  <li>Automation</li>
+  <li>Responsive web design with CSS</li>
+  <li>Cross browser and platform testing</li>
+  <li>Data scraping</li>
+  <li>SEO testing</li>
+</ul>
+
 <h2>Employment history</h2>	
 <h3>Full Stack Developer at Neverbland, London (January 2019 - Present)</h3>
 <p>Part of the development team primarily working with JavaScript, especially React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Regular testing of finalised projects across multiple platforms and browsers. Below include examples of some of my work for Neverbland:</p>
