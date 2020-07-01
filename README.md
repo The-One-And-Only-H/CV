@@ -6,9 +6,46 @@
 <h2>Summary</h2>
 <p>My name is H. I currently work full-time as a Full Stack Developer for a digital design agency based in Shoreditch, London called Neverbland. I also volunteer as a coach with Codebar teaching students basic programming skills. Prior to this, I worked for a homelessness charity in Brighton and was part of the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I am keen to develop my computer programming skills and grow within the tech industry.</p>
 
+<h2>Tech stack</h2>
+<h3>Frontend languages and tools</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>CSS</li>
+  <li>Sass</li>
+  <li>Styled Components</li>
+  <li>Bootstrap</li>
+  <li>HTML</li>
+</ul>
+
+<h3>Backend languages and tools</h3>
+<ul>
+  <li>Node</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>Docker</li>
+</ul>
+
+<h3>Database tools</h3>
+<ul>
+  <li>MySQL</li>
+  <li>WordPress</li>
+  <li>GraphCMS</li>
+</ul>
+
+<h3>Other technologies</h3>
+<ul>
+  <li>Git</li>
+  <li>Webpack</li>
+  <li>Babel</li>
+  <li>Selenium</li>
+  <li>Puppeteer</li>
+  <li>Lighthouse</li>
+</ul>
+
 <h2>Employment history</h2>	
 <h3>Full Stack Developer at Neverbland, London (January 2019 - Present)</h3>
-<p>Part of the development team primarily working with JavaScript, especially React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Below include examples of some of my work for Neverbland:</p>
+<p>Part of the development team primarily working with JavaScript, especially React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Regular testing of finalised projects across multiple platforms and browsers. Below include examples of some of my work for Neverbland:</p>
 
 <p>Automated accessibility testing:</p>
 <p>https://github.com/The-One-And-Only-H/accessibilityreporting</p>
