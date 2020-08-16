@@ -4,11 +4,15 @@
 <p>(My pronouns are they/them)</p>
 
 <h2>Summary</h2>
-<p>My name is H. I currently work full-time as a Full Stack Developer for a digital design agency based in Shoreditch, London called Neverbland. I also volunteer as a coach with Codebar teaching students basic programming skills. Prior to this, I worked for a homelessness charity in Brighton and was part of the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I am keen to develop my computer programming skills and grow within the tech industry.</p>
+<p>My name is H (my pronouns are they/them). I currently work remotely full-time as a Junior QA Engineer for a health tech company based in Berlin called Doctorly. Prior to this, I was a Full Stack Developer for a digital design agency based in London called Neverbland. I also volunteer as a coach with Codebar teaching students basic programming skills. 
+
+Before entering the tech industry, I worked for a homelessness charity in Brighton and was part of the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I am keen to develop my computer programming skills and grow within the tech industry.</p>
 
 <h2>Tech stack</h2>
 <h3>Frontend languages and tools</h3>
 <ul>
+  <li>C#</li>
+  <li>Blazor</li>
   <li>JavaScript</li>
   <li>React</li>
   <li>CSS</li>
@@ -45,8 +49,9 @@
 
 <h3>Specialities</h3>
 <ul>
-  <li>Accessibility testing</li>
+  <li>Unit testing</li>
   <li>Automation</li>
+  <li>Accessibility testing</li>
   <li>Responsive web design with CSS</li>
   <li>Cross browser and platform testing</li>
   <li>Data scraping</li>
@@ -54,7 +59,10 @@
 </ul>
 
 <h2>Employment history</h2>	
-<h3>Full Stack Developer at Neverbland, London (January 2019 - Present)</h3>
+<h3>Junior QA Engineer at Doctorly, Berlin (August 2020 - Present)</h3>
+<p>Remote position validating acceptance criteria on user stories, to ensure consistent, measurable, actionable, testable, user requirements. Writing and using tools to be able to test non-unit testable items within the frontend software. Assisting in the development of unit tests in C# to support the stability of the software solution, and to reduce the impact on manual QA. Writing SQL queries to be able to test new functionality as developed, when direct frontend testing is not available. Working with product to ensure features are properly tested. Identifying, recording, documenting thoroughly and tracking bugs. Performing thorough regression testing when bugs are resolved. Writing tools to be able to support the overall testing pipeline. Contributing to testing solutions which help develop and enhance the current testing agenda. Staying up-to-date with new testing tools and test strategies.</p>
+
+<h3>Full Stack Developer at Neverbland, London (January 2019 - July 2020)</h3>
 <p>Part of the development team primarily working with JavaScript, especially React, as well as CSS, Styled Components and  preprocessors like Sass and PostCSS. Building functional and data-rich web apps and sites using tools like Webpack and Babel. Daily use of Git for source code management. Working with designers and design tools, such as Sketch. Creating useful internal tools for the development team to optimise and streamline workflow with the creation of scrapers as well as SEO and accessibility testing tools that abide by WCAG guidelines and standards. Backend languages and tools include Python, Node, MySQL, GraphCMS, Selenium, ChromeDriver and Puppeteer, as well as testing tools including Axe and Lighthouse. Regular testing of finalised projects across multiple platforms and browsers. Below include examples of some of my work for Neverbland:</p>
 
 <p>Automated accessibility testing:</p>
