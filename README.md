@@ -4,7 +4,7 @@
 <p>(My pronouns are they/them)</p>
 
 <h2>Summary</h2>
-<p>My name is H (my pronouns are they/them). I currently work remotely full-time as a Junior QA Engineer for a health tech company based in Berlin called Doctorly. Prior to this, I was a Full Stack Developer for a digital design agency based in London called Neverbland. I also volunteer as a coach with Codebar teaching students basic programming skills. 
+<p>My name is H (my pronouns are they/them). I currently work remotely full-time as a QA Engineer for a health tech company based in Berlin called Doctorly. Prior to this, I was a Full Stack Developer for a digital design agency based in London called Neverbland. I also volunteer as a coach with Codebar teaching students basic programming skills. 
 
 Before entering the tech industry, I worked for a homelessness charity in Brighton and was part of the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I am keen to develop my computer programming skills and grow within the tech industry.</p>
 
@@ -59,7 +59,7 @@ Before entering the tech industry, I worked for a homelessness charity in Bright
 </ul>
 
 <h2>Employment history</h2>	
-<h3>Junior QA Engineer at Doctorly, Berlin (August 2020 - Present)</h3>
+<h3>QA Engineer at Doctorly, Berlin (August 2020 - Present)</h3>
 <p>Remote position validating acceptance criteria on user stories, to ensure consistent, measurable, actionable, testable, user requirements. Writing and using tools to be able to test non-unit testable items within the frontend software. Assisting in the development of unit tests in C# to support the stability of the software solution, and to reduce the impact on manual QA. Writing SQL queries to be able to test new functionality as developed, when direct frontend testing is not available. Working with product to ensure features are properly tested. Identifying, recording, documenting thoroughly and tracking bugs. Performing thorough regression testing when bugs are resolved. Writing tools to be able to support the overall testing pipeline. Contributing to testing solutions which help develop and enhance the current testing agenda. Staying up-to-date with new testing tools and test strategies.</p>
 
 <h3>Full Stack Developer at Neverbland, London (January 2019 - July 2020)</h3>
