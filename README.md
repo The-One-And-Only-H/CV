@@ -9,42 +9,54 @@
 Before entering the tech industry, I worked for a homelessness charity in Brighton and was part of the third sector in both paid and voluntary roles for the past ten years. I see myself as an ambitious and driven character who enjoys a good challenge. Coding has scratched my problem-solving itch and I am keen to develop my computer programming skills and grow within the tech industry.</p>
 
 <h2>Tech stack</h2>
-<h3>Frontend languages and tools</h3>
+<h3>Testing tools</h3>
+<ul>
+  <li>Selenium</li>
+  <li>Cypress</li>
+  <li>Puppeteer</li>
+  <li>Lighthouse</li>
+</ul>
+
+<h3>Programming languages</h3>
 <ul>
   <li>C#</li>
+  <li>JavaScript/Node</li>
+  <li>PHP</li>
+  <li>Python</li>
+</ul>
+
+<h3>Web technologies</h3>
+<ul>
   <li>Blazor</li>
-  <li>JavaScript</li>
   <li>React</li>
   <li>CSS</li>
   <li>Sass</li>
   <li>Styled Components</li>
   <li>Bootstrap</li>
+  <li>Webpack</li>
+  <li>Babel</li>
   <li>HTML</li>
 </ul>
 
-<h3>Backend languages and tools</h3>
-<ul>
-  <li>Node</li>
-  <li>PHP</li>
-  <li>Python</li>
-  <li>Docker</li>
-</ul>
-
-<h3>Database tools</h3>
-<ul>
-  <li>MySQL</li>
-  <li>WordPress</li>
-  <li>GraphCMS</li>
-</ul>
-
-<h3>Other technologies</h3>
+<h3>Development tools</h3>
 <ul>
   <li>Git</li>
-  <li>Webpack</li>
-  <li>Babel</li>
-  <li>Selenium</li>
-  <li>Puppeteer</li>
-  <li>Lighthouse</li>
+  <li>Docker</li>
+  <li>GitLab/GitLab CI</li>
+  <li>Azure/Azure DevOps</li>
+  <li>Postman</li>
+</ul>
+
+<h3>Database systems</h3>
+<ul>
+  <li>Postgres</li>
+  <li>MySQL</li>
+</ul>
+
+<h3>Content Management Systems</h3>
+<ul>
+  <li>WordPress</li>
+  <li>GraphCMS</li>
 </ul>
 
 <h3>Specialities</h3>
