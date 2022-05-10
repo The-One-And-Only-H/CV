@@ -6,7 +6,7 @@
 <h2>Summary</h2>
 <p>Hi there! My name's H. I've been working in the tech industry for just over 5 years now and love it!
 
-I currently work remotely full-time as a QA Engineer for a health tech company based in Berlin called Doctorly. Prior to this, I was a Full Stack Developer for a digital design agency based in London called Neverbland. Before that, I was a Junior Python Developer for a financial consultancy firm called Inneoin. I also volunteer as a coach with Codebar teaching students from minority backgrounds basic programming skills. 
+I currently work remotely full-time as a QA Engineer for a digital design agency called Nudge. Prior to this, I was also a QA Engineer for a health tech company based in Berlin called Doctorly. Before this, I was a Full Stack Developer for a digital design agency based in London called Neverbland. And before that, I was a Junior Python Developer for a financial consultancy firm called Inneoin. I also volunteer as a coach with Codebar teaching students from minority backgrounds basic programming skills. 
 
 I have a strong passion for learning that extends beyond tech. I'm a native English speaker who also speaks French and is currently taking one to one private tutoring lessons to learn both German and Spanish. I'm also occasionally picking up Italian in my spare time.
 
@@ -52,7 +52,10 @@ I see myself as an ambitious and driven character who enjoys a good challenge. C
   <li>Git</li>
   <li>Docker</li>
   <li>GitLab/GitLab CI</li>
+  <li>Circle CI</li>
+  <li>Github Actions</li>
   <li>Azure/Azure DevOps</li>
+  <li>AWS</li>
 </ul>
 
 <h3>Database systems</h3>
@@ -80,7 +83,10 @@ I see myself as an ambitious and driven character who enjoys a good challenge. C
 </ul>
 
 <h2>Employment history</h2>	
-<h3>QA Engineer at Doctorly, Berlin (August 2020 - Present)</h3>
+<h3>QA Engineer at Nudge Digital, Bristol (March 2022 - present)</h3>
+<p>Remote positionn providing services for Hackney Council’s “Manage my Home” project. Working collaboratively with other QA to review and improve pre-existing infrastructure and deliver relevant quality assurance in an Agile environment. Test management, including estimating, test plans, test execution and reporting for all functional and non-functional testing. Estimating, prioritising, planning and coordinating testing activities. Designing, developing and executing automation scripts. Validating the security of applications and advising on issues from penetration tests. Ensuring all testing activities are carried out and pass to a high quality before committing to release. Web based application testing.</p>
+
+<h3>QA Engineer at Doctorly, Berlin (August 2020 - March 2022)</h3>
 <p>Remote position validating acceptance criteria on user stories, to ensure consistent, measurable, actionable and testable user requirements. Writing and using tools to be able to test non-unit testable items within the frontend software. Assisting in the development of unit tests in C# to support the stability of the software solution and to reduce the impact on manual QA. Writing SQL queries to be able to test new functionality as developed, when direct frontend testing is not available. Working with product to ensure features are properly tested. Identifying, recording, documenting thoroughly and tracking bugs. Performing thorough regression testing when bugs are resolved. Writing tools to be able to support the overall testing pipeline. Contributing to testing solutions, which help develop and enhance the current testing agenda. Staying up to date with new testing tools and test strategies.</p>
 
 <p>Building and managing the QA pipeline and contributing to infrastructure and DevOps operations. Designing, building and developing test environment architecture. Previously working with C# and Selenium, now working with JavaScript to build, develop and maintain a new QA test suite using Cypress. Writing test cases and managing junior QA, including assigning and reviewing test cases. Writing integration and API automation tests, including smoke and regression tests. Creating company wide documentation and processes for other departments, including the engineering and development team, to adhere to, regarding QA procedures, such as bug reporting, triaging and QA code conventions. Leading and organising QA meetings. Streamlining internal systems to improve efficiency and communication, such as building Slack integrations and bots. Performing investigative work into automation tests to improve speed of QA pipelines.
